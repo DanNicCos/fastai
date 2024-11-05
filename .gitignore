@@ -1,0 +1,20 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system and environment files
+.Trash-0/
+*.trashinfo
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter-related metadata
+.jupyter/
+
